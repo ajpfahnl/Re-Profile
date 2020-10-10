@@ -1,0 +1,6 @@
+name = "cloudfare-general"
+type = "webpack"
+account_id = "977987aa801e2f871685b14408246a4e"
+workers_dev = true
+route = ""
+zone_id = ""
